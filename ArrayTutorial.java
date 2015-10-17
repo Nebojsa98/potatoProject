@@ -1,6 +1,6 @@
 public class ArrayTutorial{
 
-static  int[] arrayNew = new int[10];
+static  int[] arrayNew = new int[110];
 
 public static void main(String[] args){
 
